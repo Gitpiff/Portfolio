@@ -637,9 +637,11 @@ input, select, textarea {
 
 		.gitanchor {
 			width: 40px;
-			
 		}
 
+		.gitandlivecontainer {
+			display: flex;
+		}
 
 /* Image */
 
@@ -708,7 +710,7 @@ input, select, textarea {
 
 			.image.main img {
 				width: 100%;
-				opacity: .2;
+				opacity: .5;
 			}
 
 		@media screen and (max-width: 736px) {
