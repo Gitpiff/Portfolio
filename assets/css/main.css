@@ -1150,11 +1150,7 @@ input, select, textarea {
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-<<<<<<< HEAD
-			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/lonecypress.JPG");
-=======
 			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/lonecypress.png");
->>>>>>> f4bfa569d58b8666d9e0703d57f8fe4ad32dc3c7
 			background-size: cover;
 			background-position: center;
 			background-repeat: no-repeat;
