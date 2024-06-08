@@ -751,6 +751,7 @@ input, select, textarea {
 
 		ul li {
 			padding-left: 0.5em;
+			text-decoration: none;
 		}
 
 		ul.alt {
