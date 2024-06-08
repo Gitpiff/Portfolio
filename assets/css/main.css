@@ -35,6 +35,7 @@ body {
 
 ol, ul {
 	list-style: none;
+	text-decoration: none;
 }
 
 blockquote, q {
@@ -1669,3 +1670,20 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+.LiveLinkBtn {
+	background-color: red;
+}
+
+.LiveLinkBtn:hover {
+	background-color:blue;
+	color: #000000;
+}
+
+.RepoLink {
+	background-color: gray;
+}
+
+.RepoLink:hover {
+	background-color: purple;
+}
